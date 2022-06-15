@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 
 export const Container = styled.div`
     min-height: 692px;
+    width: 100%;
     position: fixed;
     inset: 0;
     z-index: 0;
